@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @d9955. My name is Divyanshu Tiwari.
+- 👋 Hi, I’m @divyanshu-tiwari001. My name is Divyanshu Tiwari.
 - 👀 I’m interested in = Gaming
 - 🌱 I’m currently learning = Coding
 - 💞️ I’m looking to collaborate on = Any programming software for free
