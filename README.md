@@ -1,10 +1,38 @@
-- 👋 Hi, I’m @divyanshu-tiwari001. My name is Divyanshu Tiwari.
-- 👀 I’m interested in = Gaming
-- 🌱 I’m currently learning = Coding
-- 💞️ I’m looking to collaborate on = Any programming software for free
-- 📫 How to reach me = programmingwithdt@gmail.com
+# 👋 Hi, I'm Divyanshu Tiwari!
 
-<!---
-d9955/d9955 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎓 I'm a Class 11 CBSE student from India, passionate about **AI**, **technology**, and **programming**.  
+🌟 My dream is to study at **MIT** and build meaningful AI products that help people.
+
+---
+
+### 🧠 Currently Learning
+- HTML & CSS (Built my first [portfolio website](https://divyanshuportfolio01.netlify.app))
+- Python fundamentals using SoloLearn, Pydroid, and Code.org
+- Git, GitHub, and open-source workflow
+
+---
+
+### 🛠️ Tools & Platforms
+- GitHub, Netlify, LeetCode, Unstop, Code.org
+- Learning to code on mobile with limited resources — 💪
+
+---
+
+### 📌 Projects
+- 💼 Portfolio: [View Website](https://divyanshuportfolio01.netlify.app)
+- Coming Soon: Akhand AI HealthMate & Connector Website
+
+---
+
+### 📺 YouTube Channel
+- 🔗 [@DivyanshuThoughts](https://youtube.com/@divyanshuthoughts) – I share my journey, coding tips, motivation, and student life!
+
+---
+
+### 📫 Connect with Me
+- Gmail: `programmingwithdt@gmail.com`
+- GitHub: [github.com/Divyanshu-Tiwari](https://github.com/Divyanshu-Tiwari)
+
+---
+
+> "Dream big. Work smart. Help others."
