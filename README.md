@@ -13,7 +13,7 @@
 ---
 
 ### 🛠️ Tools & Platforms
-- GitHub, Netlify, LeetCode, [Unstop](https://unstop.com/u/divyatiw6306), Code.org
+- GitHub, Netlify, [LeetCode](https://leetcode.com/u/dt9955/), [Unstop](https://unstop.com/u/divyatiw6306), Code.org
 - Learning to code on mobile with limited resources — 💪
 
 ---
