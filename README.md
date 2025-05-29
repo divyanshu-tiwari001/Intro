@@ -20,7 +20,7 @@
 
 ### 📌 Projects
 - 💼 Portfolio: [View Website](https://divyanshuportfolio01.netlify.app)
-- Coming Soon: Akhand AI HealthMate & Connector Website
+- Coming Soon: Akhand AI HealthMate & Akhand AI Tutor
 
 ---
 
